@@ -1,5 +1,3 @@
-Sure! Here's the README content in Markdown format that you can copy and paste:
-
 # Hi there! 👋 I'm Muhammed Inzamam
 
 I'm a passionate **Data Engineer** specializing in building secure, scalable, and cost-effective data warehouses. My expertise lies in **AWS**, **Python**, **Snowflake**, and **ETL processes**.
