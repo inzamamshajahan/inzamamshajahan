@@ -11,10 +11,10 @@ I'm a passionate **Data Engineer** specializing in building secure, scalable, an
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+- **Programming Languages**: Python, SQL
 - **Cloud Platforms**: ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
   - **AWS Services**: Lambda, S3, EC2, VPC
-- **Data Warehousing**: ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white)
+- **Data Warehousing**: Snowflake
 - **Tools & Technologies**: GitHub, Lucid Charts, Microsoft Office Suite
 - **Concepts**: Data Warehouse Concepts, ETL Processes
 
