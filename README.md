@@ -5,7 +5,6 @@ I'm a passionate **Data Engineer** specializing in building secure, scalable, an
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-inzamam)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/inzamamshajahan)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:inzamaminbox@gmail.com)
 
 
