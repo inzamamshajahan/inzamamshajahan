@@ -34,13 +34,6 @@ I'm a passionate **Data Engineer** specializing in building secure, scalable, an
 - **ETL Support**: Assisted in ETL support activities involving AWS services and Python.
 - **Documentation**: Created and maintained ETL documentation per client specifications.
 
-## 🎓 Education
-
-**Bachelor of Technology in Mechanical Engineering**  
-*Muthoot Institute of Technology and Science (MITS)*  
-Kochi, Kerala (2018 – 2022)  
-CGPA: 8.28
-
 ## 🏆 Awards and Recognitions
 
 - **Stellar Achiever** (Creating conditions for everyone to thrive) - *August 2024*, Cognizant
