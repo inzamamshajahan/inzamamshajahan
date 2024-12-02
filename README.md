@@ -12,7 +12,7 @@ I'm a passionate **Data Engineer** specializing in building secure, scalable, an
 ## 🛠️ Technical Skills
 
 - **Programming Languages**: Python, SQL
-- **Cloud Platforms**: ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+- **Cloud Platforms**: AWS
   - **AWS Services**: Lambda, S3, EC2, VPC
 - **Data Warehousing**: Snowflake
 - **Tools & Technologies**: GitHub, Lucid Charts, Microsoft Office Suite
