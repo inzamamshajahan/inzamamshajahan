@@ -1,54 +1,17 @@
 # Hi there! 👋 I'm Muhammed Inzamam
 
-I'm a passionate **Data Engineer** specializing in building secure, scalable, and cost-effective data warehouses. My expertise lies in **AWS**, **Python**, **Snowflake**, and **ETL processes**.
+Welcome to my corner of the web. I'm a Data Engineer passionate about building efficient and scalable data systems. My core toolkit includes AWS, Python, and Snowflake, and I'm particularly focused on deepening my expertise in advanced large-scale data processing.
+You can dive into my detailed professional journey, skills, and project experiences over on my LinkedIn profile.
+
+What Drives Me:
+Solving Puzzles with Data: I love the challenge of transforming raw data into meaningful insights and building systems that automate and optimize processes. This curiosity often leads me to explore innovative approaches, like the AI-driven solutions I've experimented with in hackathons.
+The Power of Cloud & Automation: I'm enthusiastic about leveraging cloud platforms (especially AWS) to design efficient, scalable, and cost-effective data frameworks. Finding ways to automate tasks and reduce manual effort is something I find incredibly rewarding.
+Sharing Knowledge: Whether it's teaching Excel to NGO staff or creating clear documentation, I believe in the importance of sharing what I know and helping others understand complex systems. This aligns with my belief in collaborative growth and "proto-leadership" through mentorship.
+Continuous Learning & Growth: The tech world is always evolving. I'm committed to constantly learning and actively deepening my skills in data engineering—particularly with PySpark, advanced AWS data services, practical AI applications in data pipelines, and robust system architecture. This drive is rooted in my successful transition into this field and my ambition to tackle increasingly complex challenges.
+When I'm not engineering data solutions, you might find me exploring new tech trends or thinking about the next creative solution to a complex problem.
+Feel free to explore my projects showcased here, and if you'd like to connect or discuss a potential opportunity, you can reach me at: inzamamshajahan@gmail.com or connect on LinkedIn.
 
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-inzamam)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:inzamaminbox@gmail.com)
-
-
-## 🛠️ Technical Skills
-
-- **Programming Languages**: Python, SQL
-- **Cloud Platforms**: AWS
-  - **AWS Services**: Lambda, S3, EC2, VPC
-- **Data Warehousing**: Snowflake
-- **Tools & Technologies**: GitHub, Lucid Charts, Microsoft Office Suite
-- **Concepts**: Data Warehouse Concepts, ETL Processes
-
-## 💼 Professional Experience
-
-### Programmer Analyst at Cognizant (July 2024 – Present)
-
-- **Test Data Replication Framework**: Led development of a framework automating secure data replication between AWS accounts using AWS services and Python.
-- **AI Hackathon Achievement**: Placed in the top 25 out of 242 teams for developing an AI-based data quality rule generator using AWS Bedrock and Snowflake.
-- **Optimized ETL Processes**: Streamlined stored procedure execution in Control-M, reducing job count and licensing costs, and improving operational efficiency.
-- **Data Retention Strategy**: Assisted in developing data retention strategies for data warehousing.
-- **Design Review Guidelines**: Contributed to standardizing design review processes, improving design quality and efficiency.
-
-### Programmer Analyst Trainee at Cognizant (July 2023 – July 2024)
-
-- **Automated Data Masking PoC**: Developed a PoC framework for Snowflake databases using Python and AWS; reduced runtime significantly and received a 5/5 client rating.
-- **ETL Support**: Assisted in ETL support activities involving AWS services and Python.
-- **Documentation**: Created and maintained ETL documentation per client specifications.
-
-## 🏆 Awards and Recognitions
-
-- **Stellar Achiever** (Creating conditions for everyone to thrive) - *August 2024*, Cognizant
-- **Stellar Achiever** (Always striving, never settling) - *July 2024*, Cognizant
-- **Promising New Star** (Always striving, never settling) - *December 2023*, Cognizant
-
-## 🌟 Other Skills
-
-- Project Management
-- Leadership
-- Teaching
-- Touch Typing (50 WPM)
-
-## 🌐 Languages
-
-- **English**: Working Proficiency
-- **Malayalam**: Native
-- **Hindi**: Limited Working Proficiency
-- **Tamil**: Elementary Proficiency
