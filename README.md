@@ -5,7 +5,7 @@ Welcome to my corner of the web! I'm a Data Engineer passionate about building e
 * **My Core Toolkit**: AWS, Python, and Snowflake.
 * **I'm Currently Focused On**: Deepening my expertise in advanced large-scale data processing.
 
-You can dive into my detailed professional journey, skills, and project experiences over on my LinkedIn profile.
+You can dive into my detailed professional journey, skills, and project experiences over on my [LinkedIn profile](https://linkedin.com/in/muhammed-inzamam).
 
 Here's what drives me:
 
@@ -16,7 +16,7 @@ Here's what drives me:
 
 When I'm not engineering data solutions, you might find me exploring new tech trends or thinking about the next creative solution to a complex problem.
 
-Feel free to explore my projects showcased here, and if you'd like to connect or discuss a potential opportunity, you can reach me at: `inzamamshajahan@gmail.com` or connect on LinkedIn.
+Feel free to explore my projects showcased here, and if you'd like to connect or discuss a potential opportunity, you can reach me at: `inzamamshajahan@gmail.com` or connect on [LinkedIn](https://linkedin.com/in/muhammed-inzamam).
 
 ## 📫 Let's Connect!
 
